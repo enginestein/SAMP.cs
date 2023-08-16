@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SAMPCS</id>
+    <version>1.0.0</version>
+    <title>SAMP.cs</title>
+    <authors>Arya Praneil Pritesh</authors>
+    <owners>Arya Praneil Pritesh</owners>
+    <license type="expression">GPL-3.0</license>
+    <projectUrl>https://github.com/enginestein/SAMP.cs</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+	A framework to write GTA SA:MP scripts in C#
+    </description>
+    <copyright>Copyright 2023</copyright>
+    <tags>gta gtasa samp sanandreas san andreas multiplayer api sampapi gtasaapi</tags>
+  </metadata>
+</package>
