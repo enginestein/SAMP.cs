@@ -1,5 +1,7 @@
 # SAMP.cs
 
+*archived because samp is dead :(*
+
 SAMP.cs is a library that can be used to write SA:MP scripts in C#. [SAMP.dev](https://github.com/enginestein/SAMP.dev) follows a different architecture to write SA:MP scripts based on a .dll file written in C but SAMP.cs can be called a rewrite of SA:MP in C#.
 
 # Installation
